@@ -1,6 +1,0 @@
-CLEAR_CONSOLE=false
-JJ_NATURE=true
-RUNTIME_JJJAR=/opt/eclipse/../../home/jose/.eclipse/org.eclipse.platform_4.4.0_1473617060_linux_gtk_x86_64/plugins/sf.eclipse.javacc_1.5.27/javacc.jar
-RUNTIME_JTBJAR=/opt/eclipse/../../home/jose/.eclipse/org.eclipse.platform_4.4.0_1473617060_linux_gtk_x86_64/plugins/sf.eclipse.javacc_1.5.27/jtb-1.4.7.jar
-SUPPRESS_WARNINGS=false
-eclipse.preferences.version=1
