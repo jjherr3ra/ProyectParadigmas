@@ -14,7 +14,7 @@ public class EG1 implements EG1Constants {
         switch (EG1.one_line())
         {
           case 0 :
-          System.out.println("OK.");
+          System.out.println("OK..");
           break;
           case 1 :
           System.out.println("Goodbye.");
